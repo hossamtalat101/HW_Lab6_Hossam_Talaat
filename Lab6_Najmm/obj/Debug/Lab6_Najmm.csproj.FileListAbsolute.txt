@@ -1,0 +1,16 @@
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\bin\Debug\Lab6_Najmm.exe.config
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\bin\Debug\Lab6_Najmm.exe
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\bin\Debug\Lab6_Najmm.pdb
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.csprojResolveAssemblyReference.cache
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form1.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form3.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form4.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form5.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Properties.Resources.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.csproj.GenerateResource.Cache
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.exe
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.pdb
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form7.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form6.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.MainForm.resources
+C:\Users\pc\Desktop\Project_C#_Lec1\Lab6_Najmm\Lab6_Najmm\obj\Debug\Lab6_Najmm.Form2.resources
